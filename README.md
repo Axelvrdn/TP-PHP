@@ -2,9 +2,9 @@
 
 *Découvrez et maîtrisez les concepts fondamentaux du développement web backend et frontend avec PHP et JavaScript*
 
-![Dernier commit](https://img.shields.io/badge/last%20commit=avril-brightgreen)  
+![Dernier commit](https://img.shields.io/badge/last%20commit=juin-brightgreen)  
 ![PHP](https://img.shields.io/badge/php-63.6%25-blue)  
-![Langages](https://img.shields.io/badge/languages-2-blue)
+![Langages](https://img.shields.io/badge/languages-5-blue)
 
 ---
 
