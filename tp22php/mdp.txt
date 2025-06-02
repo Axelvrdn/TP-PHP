@@ -1,0 +1,14 @@
+INSERT INTO CovoitUser (id, nom, prenom, tel, mail, mdp) VALUES
+(1, 'Dupont', 'Jean', '0123456789', 'jean.dupont@example.com', '76$>G]Y#'),
+(2, 'Martin', 'Sophie', '0123456790', 'sophie.martin@example.com', ';8nRXget'),
+(3, 'Durand', 'Luc', '0123456791', 'luc.durand@example.com', '#4834Y)u'),
+(4, 'Petit', 'Marie', '0123456792', 'marie.petit@example.com', '40mMe2%y'),
+(5, 'Leroy', 'Paul', '0123456793', 'paul.leroy@example.com', 'vx8]h0NG'),
+(6, 'Moreau', 'Claire', '0123456794', 'claire.moreau@example.com', 'a0sw[H#E'),
+(7, 'Simon', 'Marc', '0123456795', 'marc.simon@example.com', '9c=^CU=n'),
+(8, 'Michel', 'Anne', '0123456796', 'anne.michel@example.com', 'JAP.>r0%'),
+(9, 'Bernard', 'Pierre', '0123456797', 'pierre.bernard@example.com', ';+hb2?xD'),
+(10, 'Dufour', 'Lucie', '0123456798', 'lucie.dufour@example.com', 'r*UA:^9e'),
+(11, 'Carpentier', 'Julien', '0123456799', 'julien.carpentier@example.com', '8]<N+udh'),
+(12, 'Giraud', 'Emma', '0123456700', 'emma.giraud@example.com', 'A!e:v4bA'),
+

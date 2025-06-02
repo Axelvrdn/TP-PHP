@@ -1,0 +1,100 @@
+﻿body
+{
+    background: url('images/Fond02.jpeg');
+   font-family: Arial;
+}
+
+div#blocCivilite
+{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 70px;
+    
+}
+div#blocNomPrenom
+{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 50px;
+    
+}
+
+div#blocInfos
+{
+     position: absolute;
+    margin-left: 100px;
+    margin-top: 100px;
+    font-style: italic;
+}
+
+img#imgZodiaque
+{
+    
+    width: 100px;
+    height: 100px;
+    
+}
+
+div#blocDateDeNaissance
+{
+     position: absolute;
+    margin-left: 200px;
+    margin-top: 150px;
+    
+}
+
+
+
+
+.inputJour{
+    width: 20px;
+}
+.inputMois{
+    width: 20px;
+}
+
+.inputAnnee
+{
+    width: 40px;
+}
+
+div#blocDesBoutons
+{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 250px;
+    
+}
+
+div#blocLogosDesSignes
+{
+    
+    position: absolute;
+    margin-left: 720px;
+    margin-top: 20px;
+}
+
+
+div#blocNbVisiteurs
+{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 400px;
+}
+
+table
+{
+   border-collapse: collapse; /* Les bordures du tableau seront coll�es (plus joli) */
+   
+}
+caption
+{text-align:left;
+	color : Purple;
+	width:400px;
+	}
+
+
+td,th /* Toutes les cellules des tableaux... */
+{
+   border: 1px solid #ff3300; /* ... auront une bordure de 1px */
+}
