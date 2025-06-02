@@ -1,0 +1,20 @@
+/* CSS Document */
+body 
+{
+background-image:url(../img/fond4.gif);
+}
+
+img{
+width:64px;
+height:40px;
+}
+
+div#cadre1{
+position:absolute;
+width:598px;
+height: 516px;
+left: 147px; 
+top: 14px;
+}
+
+

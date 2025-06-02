@@ -1,0 +1,30 @@
+/* CSS Document */
+body {
+background-color:#00FF99;}
+
+div{
+text-align: center;
+font-weight:bold;
+font-size:x-large;
+
+}
+p{
+color:#FF0000;
+}
+div#texte2{
+font-style:italic;
+
+position: absolute; 
+top: 178px; 
+left: 203px; 
+width: 598px; 
+height: 47px;
+
+}
+
+h1{
+font-size:xx-large;
+}
+
+
+

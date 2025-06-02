@@ -1,0 +1,36 @@
+/* CSS Document */
+body {
+    background-color:#00eeff;}
+    
+    div{
+    text-align: center;
+    font-weight:bold;
+    font-size : 24px;
+    
+    }
+    p{
+    color:#FF0000;
+    }
+    div#texte2{
+    font-style:italic;
+    
+    position: absolute; 
+    top: 178px; 
+    left: 203px; 
+    width: 598px; 
+    height: 47px;
+    
+    }
+    
+    table, th {
+        border: 3px solid #333;
+        color: black;
+    }
+    table, td {
+    border: 3px solid #333;
+    color: black;
+    }
+    
+    
+    
+    
