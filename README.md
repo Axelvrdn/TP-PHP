@@ -79,8 +79,8 @@ Validation des données, prévention des erreurs et insertion sécurisée dans u
 ### **TP14 : Accès à une base de données avec PHP**  
 Connexion, requêtes et manipulations de données via PHP et SQL.
 
-### **TP15 : Utilisation de `eval()` en PHP**  
-Expérimentations pour exécuter dynamiquement du code PHP (à manipuler avec prudence).
+### **TP15 : Evaluation en PHP sur l'accès à une base de données**  
+Connexion, requêtes et manipulations de données via PHP et SQL.
 
 ### **TP20 : Création de classes en PHP**  
 Introduction à la programmation orientée objet avec création et manipulation de classes.
