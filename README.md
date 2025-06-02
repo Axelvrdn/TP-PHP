@@ -107,7 +107,7 @@ Création d’une API pour la gestion et la recherche de codes postaux.
 1. Cloner ce repository :
 
 ```bash
-git clone https://github.com/Axelvrdn/TP-PHP.git
+git clone https://github.com/Axelvrdn/TP-PHP-JavaScript.git
 ```
 
 2. Placer le contenu dans votre dossier de serveur local (ex : `htdocs` dans XAMPP)
